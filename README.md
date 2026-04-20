@@ -1,11 +1,11 @@
 # Hi there, I'm Lahiru Lakshan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;Mobile+App+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;Mobile+App+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
-I am an experienced **Full Stack Developer** with a strong foundation in **Java** and modern web/mobile technologies. I enjoy building robust applications and exploring data science.
+I am an experienced **Full Stack Developer** with a strong foundation in **Java** and modern web/mobile technologies. I am passionate about building scalable applications and high-quality software solutions.
 
 - 🌍 Portfolio: **[lahiru-sanjeewa.vercel.app](https://lahiru-sanjeewa.vercel.app/)**
 - ✉️ Email: **sanjeewalahiru057@gmail.com**
@@ -29,11 +29,9 @@ I am an experienced **Full Stack Developer** with a strong foundation in **Java*
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /></a>
 </p>
 
-**Data Science & Tools**
+**Tools & Devops**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" style="vertical-align: top; margin-top: 2px;" />
-  <img src="https://skillicons.dev/icons?i=docker,git,postman" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,postman" /></a>
 </p>
 
 ---
@@ -42,6 +40,10 @@ I am an experienced **Full Stack Developer** with a strong foundation in **Java*
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lahiru075&show_icons=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru075&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahiru075&theme=radical&hide_border=true" alt="streak stats" />
 </p>
 
 ---
