@@ -31,12 +31,9 @@ I am an experienced **Full Stack Developer** with a strong foundation in **Java*
 
 **Data Science & Tools**
 <p align="left">
-  <!-- Data Science Icons (Individual fixes) -->
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="numpy" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="matplotlib" /></a>
-  <!-- Tools Icons -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,postman" /></a>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" style="vertical-align: top; margin-top: 2px;" />
+  <img src="https://skillicons.dev/icons?i=docker,git,postman" />
 </p>
 
 ---
