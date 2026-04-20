@@ -12,11 +12,11 @@ I am an experienced **Full Stack Developer** with a strong foundation in **Java*
 
 ---
 
-### 🛠 Tech Stack (All Skills)
+### 🛠 Tech Stack
 
 **Languages & Frameworks**
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,js,ts,dart" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,express,js,ts,dart" /></a>
 </p>
 
 **Frontend & Mobile Development**
@@ -31,11 +31,7 @@ I am an experienced **Full Stack Developer** with a strong foundation in **Java*
 
 **Data Science & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <br><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,postman" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,docker,git,postman" /></a>
 </p>
 
 ---
