@@ -1,4 +1,4 @@
-# Hi there, I'm Lahiru Lakshan 👋
+# Hi there, I'm Lahiru Lakshan Sanjeewa👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;Mobile+App+Developer;Open+Source+Contributor" alt="Typing SVG" />
