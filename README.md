@@ -1,4 +1,4 @@
-# Hi there, I'm Lahiru Lakshan Sanjeewa👋
+# Hi there, I'm Lahiru Lakshan👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;Mobile+App+Developer;Open+Source+Contributor" alt="Typing SVG" />
@@ -53,6 +53,7 @@ I am an experienced **Full Stack Developer** with a strong foundation in **Java*
   <a href="https://linkedin.com/in/lahiru-sanjeewa-8b2a59323" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://fb.com/profile.php?id=61554911463640" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/lakshan_lahiruu" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/94753944353" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
