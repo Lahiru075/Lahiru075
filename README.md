@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 About Me
-I am a driven Full Stack Developer focusing on backend engineering with a strong foundation in Java/Spring Boot and the MERN stack, alongside experience in mobile development. I am passionate about writing clean, scalable code and crafting high-quality solutions.
+Driven **Full Stack Developer** focusing on **backend engineering**, with a strong foundation in **Java/Spring Boot**, **MERN stack**, and **mobile development**. Passionate about writing **clean code** and building **scalable systems**.
 
 - 🌍 Portfolio: **[lahiru-sanjeewa.vercel.app](https://lahiru-sanjeewa.vercel.app/)**
 - ✉️ Email: **sanjeewalahiru057@gmail.com**
