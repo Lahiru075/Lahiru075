@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 About Me
-I am an experienced **Full Stack Developer** with a strong foundation in **Java** and modern web/mobile technologies. I am passionate about building scalable applications and high-quality software solutions.
+I am a driven Full Stack Developer focusing on backend engineering with a strong foundation in Java/Spring Boot and the MERN stack, alongside experience in mobile development. I am passionate about writing clean, scalable code and crafting high-quality solutions.
 
 - 🌍 Portfolio: **[lahiru-sanjeewa.vercel.app](https://lahiru-sanjeewa.vercel.app/)**
 - ✉️ Email: **sanjeewalahiru057@gmail.com**
